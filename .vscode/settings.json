@@ -1,0 +1,6 @@
+{
+    "elm.formatCommand": "elm-format",
+    "[elm]": {
+        "editor.formatOnSave": true,
+    },
+}
